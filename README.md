@@ -57,5 +57,5 @@ Contributions are welcome! Feel free to fork this repository, submit issues, or 
 MIT License. See `LICENSE` for details.
 
 ---
-Made with ❤️ by [Your Name](https://github.com/yourusername).
+Made with ❤️ by [Sanket Rathod](https://github.com/sanketrathod07/)
 
